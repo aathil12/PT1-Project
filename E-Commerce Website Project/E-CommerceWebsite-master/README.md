@@ -13,12 +13,12 @@
 
 
 
-### Ordered List page
+### Items Cart page
 ![3](https://github.com/user-attachments/assets/39acaf4c-9c71-4070-bf9c-ae574e0994b6)
 
 
 
-### Order confirm page
+### Order Confirmation page
 ![4](https://github.com/user-attachments/assets/37cc400e-d2d2-4e6b-a328-fccfd9b9c522)
 
 
