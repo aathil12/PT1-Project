@@ -14,15 +14,11 @@
 
 
 ### Ordered List page
-![3](https://github.com/user-attachments/assets/4bd634f9-9f38-4115-9806-9ac7b6ce49dd)
+![3](https://github.com/user-attachments/assets/39acaf4c-9c71-4070-bf9c-ae574e0994b6)
 
 
 
 ### Order confirm page
 ![4](https://github.com/user-attachments/assets/37cc400e-d2d2-4e6b-a328-fccfd9b9c522)
-
-
-
-
 
 
