@@ -21,4 +21,3 @@
 ### Order Confirmation page
 ![4](https://github.com/user-attachments/assets/37cc400e-d2d2-4e6b-a328-fccfd9b9c522)
 
-
